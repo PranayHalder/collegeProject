@@ -36,7 +36,7 @@ Download and install this softwares to run this project
 1. Clone the repo
 
    ```sh
-   git clone git@github.com:PranayHalder/picsum.git
+   git clone git@github.com:PranayHalder/collegeProject.git
    ```
    
 2. Create .env file inside your picsum folder and add these lines
